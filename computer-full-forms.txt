@@ -1,0 +1,299 @@
+Full forms:
+* OS : Operating System
+* MS : Microsoft
+* AI : Artificial Intelligence
+* HTML : Hypertext Markup Language
+* XML : Extensible Markup Language
+* HTTP : Hypertext Transfer Protocol
+* CSS : Cascade StyleSheet
+* JS : Javascript
+* PHP : Personal Home Page
+* SQL : StructuRed Query Language
+* Go : Golang
+* ADSL : Asymmetrical Digital Subscriber Line
+* AT : Advanced Technology
+* ATA : Advanced Technology Attachment
+* ATM : Asynchronous Transfer Mode
+* ATX : Advanced Technology Extended
+* BIOS : Basic Input/Output System
+* BootP : Boot Protocol
+* BSC : Binary Synchronous Communication
+* CD : Compact Disc
+* CD-ROM : Compact Disc-Read-Only Memory
+* CD-RW : Compact Disc-RewriTable
+* CDFS : Compact Disc File System
+* CRT : Cathode-Ray Tube
+* DAT : Digital Audio Tape
+* DOS : Disk Operating System or Denial of Service
+* DDOS : Distributed Denial of Service
+* RAM : Random Access Memory
+* ROM : Read Only Memory
+* SDRAM : Synchronous Dynamic Random Access Memory
+* DDR : Double Data-Rate
+* DDP : Datagram Delivery Protocol
+* DFS : distributed File System
+* DHCP : Dynamic Host Configuration Protocol
+* DIMM : Dual Inline Memory Module
+* DLC : Data Link Control
+* DNS : Domain Name Service or Domain Name Server
+* DRAM : Dynamic Random Access Memory
+* DSL : Digital Subscriber Line
+* DVD : Digital Video Disc or Digital Versatile Disc
+* DVD-RAM : Digital Video Disc-Random Access Memory
+* DVD-ROM : Digital Video Disc-Read Only Memory
+* DVD-R : Digital Video Disc-Recordable
+* DVD-RW : Digital Video Disc-rewriTable
+* DUN : Dial up Networking
+* DVM : Digital Volt Meter
+* DVI : Digital Visual Interface
+* ECC : Error Correction Code
+* ECP : Extended Capabilities Port
+* EEPROM : Electrically Erasable Programmable Read-Only Memory
+* EFS : Encrypting File System
+* EGP : Exterior Gateway Protocol
+* DSU : Digital Service Unit
+* DTD : Document Type Definition
+* EISA : Extended Industry Standard Architecture
+* EIA : Electronic Industries Association
+* EMI : Electromagnetic Interference
+* EMP : Electromagnetic Pulse
+* EPROM : Erasable Programmable Read-Only Memory
+* FAT : File Allocation Table
+* FAT12 : 12-bit File Allocation Table
+* FAT16 : 16-bit File Allocation Table
+* FAT32 : 32-bit File Allocation Table
+* FDD : Floppy Disk Drive
+* FDDI : Fiber Distributed Data Interface
+* FERPA : Family Educational Rights and Privacy Act
+* Fn : Function (referring to the function Key on a laptop)
+* FPM : Fast Page-Mode
+* FTP : File Transport Protocol
+* FQDN : Fully Qualified Domain Name
+* GB : Gigabyte
+* GDI : Graphics Device Interface
+* GHz : Gigahertz
+* GUI : Graphical User Interface
+* GPRS : General Packet Radio System
+* GSM : Global System for Mobile Communications
+* HAL : Hardware Abstraction Layer
+* HCL : Hardware Compatibility List
+* HDD : Hard Disk Drive
+* HDMi : High Definition Media Interface
+* HPFS : High Performance File System
+* HTTPS : Hypertext Transfer Protocol Over Secure Sockets Layer
+* I/O : Input/Output
+* IAB : Internet Architecture Board
+* IANA : Internet Assigned Numbers Authority
+* ICMP : Internet Control Message Protocol
+* ICS : Internet Connection Sharing
+* ICR : Intelligent Character Recognition
+* IDE : Integrated Drive Electronics
+* IEEE : Institute of Electrical and Electronics Engineers
+* IETF : Internet Engineering Task Force
+* IGMP : Internet Group Management Protocol
+* IIS : Internet Information Services
+* IMAP : Internet Mail Access Protocol
+* IMAP4 : Internet Mail Access Protocol version 4
+* IP : Internet Protocol
+* IPCONFIG : Internet Protocol Configuration
+* IPP : Internet Printing Protocol
+* IPSEC : Internet Protocol Security
+* IPX : InterNetwork Packet Exchange
+* IPX/SPX : InterNetwork Packet Exchange/Sequenced Packet Exchange
+* IR : Infrared
+* IrDA : Infrared Data Association
+* IRQ : Interrupt Request
+* IRTF : Internet Research Task Force
+* ISA : Industry Standard Architecture
+* ISAKMP : Internet Security Association and Key Management Protocol Authentication
+* ISDN : Integrated Services Digital Network
+* ISP : Internet Service Provider
+* ISOC : Internet Society, Promotes Internet Policies
+* ISA : Industry Standard Architecture
+* ISDN : Integrated Services Digital Network
+* ISO : Industry Standards Organization
+* ISP : Internet Service Provider
+* ITU : International Telecommunication Union
+* KB : Kilobyte
+* L2F : Layer2 Forwarding
+* LAN : Local Area Network
+* LBA : Logical Block Addressing
+* LCD : Liquid Crystal Display
+* LDAP : Lightweight Directory Access Protocol
+* LDA : Local Delivery Agent
+* LED : Light Emitting Diode
+* LIP : LiPoly Lithium-ion Polymer
+* Li-on : Lithium-ion
+* LU : Logical Units
+* MAC : Media Access Control
+* MAN : Metropolitan Area Network
+* MAPI : Messaging Application Programming Interface
+* Mb : Megabit
+* MB : Megabyte
+* MBR : Master Boot Record
+* MHz : Megahertz
+* MIME : Multipurpose Internet Mail Extension
+* MLI : Multiple Link Interface
+* MMC : Microsoft Management Console
+* MSSP : Managed Security Service Provider
+* MMX : MulTimedia Extensions
+* MP3 : Moving Picture Experts Group Layer 3 Audio
+* MPEG : Moving Picture Experts Group
+* MS : Message Store
+* MSCONFIG : Microsoft Configuration
+* MSDS : Material Safety Data Sheet
+* MUI : Multilingual User Interface
+* MTA : Message Transfer Agent
+* MTU : Maximum Transmission Unit
+* NAS : Network-Attached Storage, Network Access Server
+* NAU : Network Addressable Units
+* NAT : Network Address Translation
+* NBF : NetBIOS Frame Protocol
+* NBNS : NetBIOS Name Server
+* NBP : Name binding Protocol
+* NBT : NetBIOS Over TCP/IP
+* NCP : NetWare Core Protocol
+* NCP : Network Control Program
+* NDIS : Network Driver Interface Specification
+* NFS : Network File System
+* NetBIOS : Networked basic Input/Output System
+* NetBEUI : Networked basic Input/Output System Extended User Interface
+* NFS : Network File System
+* NIC : Network Interface Card
+* NLI : Not Logged in or Natural Language Interface
+* NLX : New Low-Profile Extended
+* NNTP : Network News Transfer Protocol
+* NOS : Network Operating System
+* NTFS : New Technology File System
+* NTLDR : New Technology loader
+* NWLink : Netware Link
+* OC : Optical Carrier
+* OCR : Optical Character Recognition
+* ODBC : Open Database Connectivity
+* ODI : Open Data Link Interface
+* OSI : Open Systems Interconnect
+* OEM : Original Equipment Manufacturer
+* OMR : Optical Mark Recognition
+* OSR : Original Equipment Manufacturer Service Release
+* OSPF : Open ShorTest Path First
+* PAP : Password Authentication Protocol
+* PAP : Printer Access Protocol
+* PAN : Personal Area Network
+* PATA : Parallel Advanced Technology Attachment
+* PC : Personal Computer
+* PCI : Peripheral Component Interconnect
+* PCIe : Peripheral Component Interconnect Express
+* PCIX : Peripheral Component Interconnect Extended
+* PCL : Printer Control Language
+* PCMCIA : Personal Computer Memory Card International Association
+* PDA : Personal Digital Assistant
+* PDC : Primary Domain Controller
+* PDL : Page Description Language
+* PDN : Public Data Network
+* PIN : Personal Identification Number
+* PKI : Public Key Infrastructure
+* PnP : Plug and Play
+* POP : Post Office Protocol
+* POP3 : Post Office Protocol 3
+* Post : Power-on Self Test
+* POTS : Plain Old Telephone Service
+* PPP : Point-to-Point Protocol
+* PPTP : Point-to-Point Tunneling Protocol
+* PRI : Primary Rate Interface
+* PROM : Programmable Read-Only Memory
+* PVC : Permanent Virtual Circuit
+* PXE : PreBoot Execution Environment
+* QoS : Quality of Service
+* RADIUS : Remote Authentication Dial In User Service
+* RAID : Redundant Array of Independent (or Inexpensive) Discs
+* RAM : Random Access Memory
+* RARP : Reverse Address Resolution Protocol
+* RAS : Remote Access Service
+* RDRAM : RAMBus Dynamic Random Access Memory
+* RF : Radio Frequency
+* RFI : Radio Frequency Interference
+* RGB : Red Green Blue
+* RIP : Routing Information Protocol
+* RIS : Remote installation Service
+* RISC : Reduced instruction Set Computer
+* RPC : Remote Procedure Call
+* RR : Resource Records
+* RTC : Real-Time Clock
+* RTMP : Routing Table Maintenance Protocol
+* SAN : Storage Area Network
+* SAP : Service Advertising Protocol
+* SAS : Single Attachment Stations
+* SATA : Serial Advanced Technology Attachment
+* SC : Subscription Channel
+* SCSI : Small Computer System Interface
+* SCSI ID : Small Computer System Interface Identifier
+* SD : Card Secure Digital Card
+* SDRAM : Synchronous Dynamic Random Access Memory
+* SDH : Synchronous Digital Hierarchy
+* SDLS : Synchronous Data Link Control
+* SEC : Single Edge Connector
+* SFC : System File Checker
+* SGRAM : Synchronous Graphics Random Access Memory
+* SGML : Standardized General Markup Language
+* SIMM : Single Inline Memory Module
+* SLI : Scalable Link Interface or System Level Integration or Scanline Interleave Mode
+* SLED : Single Large Inexpensive Disk
+* SLIP : Serial Line Interface Protocol
+* SMAU : Smart Multi Station Access Unit
+* SMB : Server Message Block or Small to Midsize Business
+* SMDS : Switched MulTimegabit Data Service
+* SMS : Systems Management Server
+* SMTP : Simple Mail Transport Protocol
+* SNA : System Network Architecture
+* SNMP : Simple Network Management Protocol
+* SRAM : Static Random Access Memory
+* SSH : Secure Shell
+* SSID : Service Set Identifier
+* SSL : Secure Sockets Layer
+* SQL : StructuRed Query Language
+* SSCP : Systems Services Control
+* STP : Shielded Twisted Pair
+* SVGA : Super Video Graphics Array
+* SVC : Switched Virtual Circuit
+* SXGA : Super Extended Graphics Array
+* TB : Terabyte
+* TCP : Transmission Control Protocol
+* TCP/IP : Transmission Control Protocol/Internet Protocol
+* TDI : Transport Driver Interface
+* TDR : Time Domain Reflectometer
+* TFTP : Trivial File Transfer Protocol
+* TIA : TeleCommunications Industries Association
+* TLD : Top Level Domain
+* UA : Users Agent
+* UART : Universal Asynchronous Receiver Transmitter
+* UDF : User Defined Functions or Universal Disk format or Universal Data format
+* UDMA : Ultra Direct Memory Access
+* UDP : User Datagram Protocol
+* UL : Underwriter’s Laboratory
+* UNC : Universal Naming Convention
+* UPS : Uninterruptible Power Supply
+* URL : Uniform Resource Locator
+* USB : Universal Serial Bus
+* USMT : User State Migration Tool
+* UTP : Unshielded Twisted Pair
+* UXGA : Ultra Extended Graphics Array
+* VESA : Video Electronics Standards Association
+* VFAT : Virtual File Allocation Table
+* VGA : Video Graphics Array
+* VoIP : Voice Over Internet Protocol
+* VIM : Vendor Independent Messaging Protocol
+* VPN : Virtual Private Network
+* VRAM : Video Random Access Memory
+* VPN : Virtual Private Networking
+* W3C : World Wide Web Consortium
+* WAN : Wide Area Network
+* WAP : Wireless Application Protocol
+* WEP : Wired Equivalent Privacy
+* WIFI : Wireless Fidelity
+* WINS : windows Internet Name Service
+* WLAN : Wireless Local Area Network
+* WPA : Wireless Protected Access
+* WUXGA : Wide Ultra Extended Graphics Array
+* XGA : Extended Graphics Array
+* ZIF : Zero-Insertion-Force
+* ZIP : Zigzag Inline Package
