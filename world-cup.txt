@@ -3,12 +3,12 @@
 
 * FIFA World Cup 2014 (20th)
 -> Held in Brazil on 12 June to 13 July 2014
--> Won by Germany
+-> Winner - Germany
 -> Best player : Lionel Messi
 
 * FIFA World Cup 2018 (21st)
 -> Held in Russia on 14 June to 15 July 2018
--> Won by France
+-> Winner - France
 -> Best player : Luca Modric
 
 * FIFA World Cup 2022 (22nd)
