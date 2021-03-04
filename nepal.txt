@@ -16,6 +16,7 @@ Nepal
 * Total religions = 6
 * 81.3% Hinduism
 * 0.5% Prakriti
+
 * Government = Federal Parliamentary Republic
 * President = Bidhya Devi Bhandari
 * First President = Ram Baran Yadav
@@ -23,6 +24,7 @@ Nepal
 * First Prime Minister = Bhimsen Thapa
 * House Speaker = Agni Prasad Sapkota
 * Chief Justice = Cholendra Sumsher JB Rana
+
 * Water = 2.8%
 * Currency = Nepalese Rupee (NPR)
 * Timezone = UTC+05:45
@@ -47,6 +49,9 @@ Nepal
 * Sugauli Treaty
 - Between East India Company and Nepal
 - on March 4, 1816
+
+* Total Zones = 14
+* Total Districts = 77
 
 * Total Regions = 5
 - Eastern Development Region
